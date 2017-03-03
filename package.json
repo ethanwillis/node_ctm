@@ -1,0 +1,27 @@
+{
+  "name": "node_ctm",
+  "version": "0.0.1",
+  "description": "A wrapper around the CTM REST API.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanwillis/node_ctm.git"
+  },
+  "keywords": [
+    "call",
+    "tracking",
+    "metrics",
+    "ctm",
+    "api",
+    "rest"
+  ],
+  "author": "Ethan Willis",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ethanwillis/node_ctm/issues"
+  },
+  "homepage": "https://github.com/ethanwillis/node_ctm#readme"
+}
